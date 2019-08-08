@@ -10,7 +10,7 @@ FULL STACK WEB DEVELOPEMENT COURSE.
 In addition to the above, Git and GitHub was used which was, to me, the most 
 important aspect. It was not only useful to learn to use it but very important
 to learn why it was necessary to use it because that is essentially what 
-will 'develop the developer' in me. It made me realise that is what web 
-development is at the core...incremental development through the lifecycle of a 
+will 'develop the developer' in me. It made me realise that it's what web 
+development is at the core...incremental development throughout the lifecycle of a 
 project until it becomes a complete or finished product (as much as that is
 possible.)
